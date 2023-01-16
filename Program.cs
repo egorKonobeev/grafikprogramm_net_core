@@ -41,9 +41,9 @@ namespace Grafikprogramm
                 SKColors.Green,
                 SKColors.Transparent,
                 new Point(100, 10),
-                new Point(200, 250),
+                new Point(200, 10),
                 new Point(200, 200),
-                new Point(20, 0)
+                new Point(100, 200)
             );
 
             canvas.AddShape(circle1);
